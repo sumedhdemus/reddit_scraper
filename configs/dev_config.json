@@ -1,0 +1,6 @@
+{   
+    "reddit_auth_url": "https://www.reddit.com",
+    "reddit_authentication_endpoint":"/api/v1/access_token",
+    "reddit_url": "https://oauth.reddit.com",
+    "saved_posts_endpoint": "/user/username/saved"
+}

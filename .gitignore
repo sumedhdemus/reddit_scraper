@@ -1,0 +1,5 @@
+.env
+latest_saved_post.txt
+.venv
+.vscode
+*/__pycache__
